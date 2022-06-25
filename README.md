@@ -1,2 +1,2 @@
-# Solo-Project
-A simple React app project
+# B-Card-Project
+A simple Digital business card create with React.js
